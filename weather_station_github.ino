@@ -5,8 +5,8 @@
 #define DHTPIN 5
 #define DHTTYPE DHT11
 
-const char* ssid = "BAOO";
-const char* password = "fcdde0eed24800";
+const char* ssid = "-------";
+const char* password = "-------";
 
 DHT dht(DHTPIN, DHTTYPE);
 
